@@ -22,3 +22,5 @@
     Make sure the new chromosome nodes value is in range -确保新染色体节点值在范围之内
     Find and instead the better chromosome bettween new chromosome and old chromosome -在新旧染色体中找出最优染色体并替换
     Instead the worse chromosome to the best chromosome -将最劣染色体替换成最优染色体
+    The change of the best chromosome -最优染色体的变化
+    The change of the average chromosome -平均染色体的变化
