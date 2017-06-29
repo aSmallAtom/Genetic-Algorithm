@@ -16,6 +16,7 @@
 3) Function -函数
     Calculate the fitness of every object -计算适应度
     Find the best/worse fitness in all object -寻找所有染色体中的最优/劣适应度
+    Select by natural -自然选择
     Mutate the chromosome -染色体变异
 	Cross the chromosome -染色体交叉
 	Make sure the new chromosome nodes value is in range -确保新染色体节点值在范围之内
