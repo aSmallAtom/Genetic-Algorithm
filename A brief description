@@ -1,4 +1,4 @@
-1) Parameter -参数
+   1) Parameter -参数
     Population Number -种群数目
     Chromosome nodes number -染色体节点数
     Interations number -迭代次数
@@ -7,7 +7,7 @@
     Average fitness -平均适应度
     Cross probability -交叉概率
     Mutate probability -突变概率
-Every best chromosome -每一个最优染色体
+    Every best chromosome -每一个最优染色体
 
 2) Class -类
     The chromosome of the object -对象的染色体
@@ -18,7 +18,7 @@ Every best chromosome -每一个最优染色体
     Find the best/worse fitness in all object -寻找所有染色体中的最优/劣适应度
     Select by natural -自然选择
     Mutate the chromosome -染色体变异
-Cross the chromosome -染色体交叉
-Make sure the new chromosome nodes value is in range -确保新染色体节点值在范围之内
-Find and instead the better chromosome bettween new chromosome and old chromosome -在新旧染色体中找出最优染色体并替换
-Instead the worse chromosome to the best chromosome -将最劣染色体替换成最优染色体
+    Cross the chromosome -染色体交叉
+    Make sure the new chromosome nodes value is in range -确保新染色体节点值在范围之内
+    Find and instead the better chromosome bettween new chromosome and old chromosome -在新旧染色体中找出最优染色体并替换
+    Instead the worse chromosome to the best chromosome -将最劣染色体替换成最优染色体
